@@ -5,7 +5,7 @@ body {
 
 
 header {
-    background-color: #397;
+    background-color: #364;
     color: green;
     text-align: center;
 }
@@ -28,63 +28,69 @@ section {
     padding: 10px;  
 }
 
-#reglamentos {
+#señalamientos {
    
 }
 
-#duracion {
-    background-color: #A569BD  ; /* Color azul claro */
-     text-align: center;
+#alto {
+    background-color: #F39C12  ; /* Color azul claro */
+     text-align: center
 }
 
-#faltas {
-    background-color: #52BE80 ; /* Color amarillo claro */
-     text-align: center;
+#ancholibre {
+    background-color: #2980B9 ; /* Color amarillo claro */
+     text-align: center
 }
 
-#fuera {
-    background-color: #17A589 ; /* Color naranja claro */
- text-align: center;
+#cedaelpaso {
+    background-color: #5499C7; /* Color naranja claro */
+     text-align: center
 }
 
-#gol {
-    background-color: #F39C12 ; /* Color naranja claro */
- text-align: center;
+#cerrada {
+    background-color: #1ABC9C; /* Color naranja claro */
+     text-align: center
 }
 
-#inicio {
-    background-color: #CD6155; /* Color verde claro */
-     text-align: center;
+#circulacion{
+    background-color: #EB984E; /* Color verde claro */
+     text-align: center
 }
 
-#mano {
-    background-color: #9B59B6 ; /* Color naranja claro */
-     text-align: center;
+#conserve {
+    background-color: #52BE80 ; /* Color naranja claro */
+     text-align: center
 }
 
-#penalti {
-    background-color: #5499C7 ; /* Color naranja claro */
-     text-align: center;
+#sinuosa {
+    background-color: #E67E22; /* Color naranja claro */
+     text-align: center
 }
 
-#sustituciones {
-    background-color: #F4D03F ; /* Color naranja claro */
-     text-align: center;
+#curva {
+    background-color: #F1948A ; /* Color naranja claro */
+     text-align: center
 }
 
-#tarjeta {
-    background-color:  #EB984E ; /* Color naranja claro */
-     text-align: center;
+#escolares {
+    background-color: #28B463 ; /* Color naranja claro */
+     text-align: center
 }
 
-#tiros {
-    background-color: #45B39D; /* Color naranja claro */
-     text-align: center;
+#pendiente {
+    background-color: #EC7063; /* Color naranja claro */
+     text-align: center
 }
-#integrantes {
-    background-color: #F4D03F; /* Color naranja claro */
-     text-align: center;
+
+#pendiente {
+    background-color: #EC7063; /* Color naranja claro */
+     text-align: center
 }
+#integrantes  {
+    background-color: #F1948A; /* Color naranja claro */
+     text-align: center
+}
+
 
 
 footer {
