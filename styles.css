@@ -1,0 +1,100 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+
+
+header {
+    background-color: #397;
+    color: green;
+    text-align: center;
+}
+
+header nav ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    gap: 2em;
+    padding: 0;
+    margin: 0;
+}
+
+header nav ul li a {
+    color: white;
+    font-weight: bold;
+}
+
+section {
+    padding: 10px;  
+}
+
+#reglamentos {
+   
+}
+
+#duracion {
+    background-color: #A569BD  ; /* Color azul claro */
+     text-align: center;
+}
+
+#faltas {
+    background-color: #52BE80 ; /* Color amarillo claro */
+     text-align: center;
+}
+
+#fuera {
+    background-color: #17A589 ; /* Color naranja claro */
+ text-align: center;
+}
+
+#gol {
+    background-color: #F39C12 ; /* Color naranja claro */
+ text-align: center;
+}
+
+#inicio {
+    background-color: #CD6155; /* Color verde claro */
+     text-align: center;
+}
+
+#mano {
+    background-color: #9B59B6 ; /* Color naranja claro */
+     text-align: center;
+}
+
+#penalti {
+    background-color: #5499C7 ; /* Color naranja claro */
+     text-align: center;
+}
+
+#sustituciones {
+    background-color: #F4D03F ; /* Color naranja claro */
+     text-align: center;
+}
+
+#tarjeta {
+    background-color:  #EB984E ; /* Color naranja claro */
+     text-align: center;
+}
+
+#tiros {
+    background-color: #45B39D; /* Color naranja claro */
+     text-align: center;
+}
+
+
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 5px;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+li {
+    margin: 0.5em 0;
+}
